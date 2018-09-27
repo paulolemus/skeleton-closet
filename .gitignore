@@ -144,3 +144,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Build folders
+dist/
