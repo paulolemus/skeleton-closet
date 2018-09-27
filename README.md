@@ -28,7 +28,8 @@ I got tired of the time it takes to set up a project the way I like over and ove
 My personal project skeletons are kept on various branches. Check them out!
 
 ### Current branches
-- __js/express_basic__: Node.js project using Express as a basic skeleton.
+- __server/js_express_basic__: Node.js project using Express as a basic skeleton.
+- __client/js_react_basic__: Node.js project using React for frontend.
 
 ## Features
 Coming soon!
