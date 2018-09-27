@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "unnamed-production",
+            "script": "./src/index.js",
+            "env": {
+                "NODE_ENV": "production"
+            },
+            "autorestart": true,
+            "exec_mode": "cluster",
+            "instances": 1
+        }
+    ]                                                                                               
+}

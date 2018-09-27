@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "unnamed-development",
+            "script": "./src/index.js",
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "autorestart": true,
+            "exec_mode": "cluster",
+            "instances": 1
+        }
+    ]                                                                                               
+}

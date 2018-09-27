@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "unnamed-staging",
+            "script": "./src/index.js",
+            "env": {
+                "NODE_ENV": "staging"
+            },
+            "autorestart": true,
+            "exec_mode": "cluster",
+            "instances": 1
+        }
+    ]                                                                                               
+}

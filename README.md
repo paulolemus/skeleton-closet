@@ -12,26 +12,25 @@
 
 <br />
 
-
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [About](#about)
 - [Features](#features)
 - [Example](#example)
 - [FAQ](#faq)
 - [Installation](#installation)
+- [License](#license)
 
 ## About
-I got tired of the time it takes to set up a project the way I like over and over (especially with you JavaScript), so I'm keeping all my popular project skeletons here.
-My personal project skeletons are kept on various branches. Check them out!
-
-### Current branches
-Coming soon!
+A basic Node.js Express project structure set up with eslint, pm2, and Jest.
 
 ## Features
 Coming soon!
 
 ## Example
-Coming soon!
+Run the app with `node .` from the project root folder.
+
+Run the app long term using PM2: `npx pm2 start pm2/<env>.json`.
 
 ## FAQ
 Coming soon!
