@@ -30,6 +30,7 @@ My personal project skeletons are kept on various branches. Check them out!
 ### Current branches
 - __server/js_express_basic__: Node.js project using Express as a basic skeleton.
 - __client/js_react_basic__: Node.js project using React for frontend.
+- __client/js_react__: Node.js project using React for frontend, made with `create-react-app`.
 
 ## Features
 Coming soon!
