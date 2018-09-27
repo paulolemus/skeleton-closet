@@ -16,7 +16,6 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [About](#about)
-  - [Current branches](#current-branches)
 - [Features](#features)
 - [Example](#example)
 - [FAQ](#faq)
@@ -24,11 +23,8 @@
 - [License](#license)
 
 ## About
-I got tired of the time it takes to set up a project the way I like over and over (especially with you JavaScript), so I'm keeping all my popular project skeletons here.
-My personal project skeletons are kept on various branches. Check them out!
 
-### Current branches
-- __js/express_basic__: Node.js project using Express as a basic skeleton.
+A basic Node.js React project structure created without `create-react-app`.
 
 ## Features
 Coming soon!
